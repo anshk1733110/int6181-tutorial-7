@@ -1,5 +1,6 @@
 # triangle.py
 # this function is for XXX.
+# this function output should be XXX.
 import math
 from enum import Enum
 
